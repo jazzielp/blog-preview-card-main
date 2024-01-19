@@ -92,5 +92,32 @@ html {
     font-size: 1.4rem;
 }
 
+@media screen and (min-width: 450px) {
+    .card {
+        min-width: 390px;
+        width: 385px;
+
+    }
+    .img-container__img {
+        width: 336px;
+    }
+
+    .main__btn-learning {
+        font-size: 1.4rem;
+    }
+
+    .main__plublished {
+        font-size: 1.4rem;
+    }
+
+    .main__title {
+        font-size: 2.4rem;
+    }
+
+    .main__paragraph {
+        font-size: 1.6rem;
+     }
+}
+
 
 
